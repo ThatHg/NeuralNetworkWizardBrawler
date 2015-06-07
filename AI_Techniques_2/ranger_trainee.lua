@@ -1,0 +1,6 @@
+RANGE			= 200.0;
+DAMAGE			= 1.0;
+HEALTH			= 100.0;
+IMMUNITY		= 0			-- Immunity facts: 0=FIRE, 1=WATER, 2=EARTH, 3=AIR
+ATTACK_SPEED	= 10.0;
+WALKING_SPEED	= 2.0;
